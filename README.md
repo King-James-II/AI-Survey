@@ -16,6 +16,7 @@ The AI Survey program is designed to interactively engage users in a survey to e
 
 ## Technologies Used
 
+- Artificial Intelligence (AI)
 - Java
 - HashMap
 - File I/O
